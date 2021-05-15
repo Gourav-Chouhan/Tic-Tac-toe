@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	text-align: center;
+	background-color: black;
+	justify-content: center;
+	align-content: center;
+}
+
+button {
+	padding: 25px 29px 25px 29px;
+	background-color: chocolate;
+	border: 2px solid green;
+	border-radius: 50%;
+	color: black;
+	font-weight: bold;
+	box-shadow: 0 5px 5px 2px green;
+		font-family: cursive;
+	animation: glow 1s;
+
+
+}
+button:hover {
+	border-color: orangered;
+	box-shadow: 0 5px 5px 2px red;
+}
+
+h1 {
+	color: green;
+		font-family: cursive;
+
+    border: 1px solid green;
+	box-shadow: 10px 0px 10px 10px green;
+
+}
+
+p {
+        color: green;
+	font-family: cursive;
+    border: 1px solid green;
+	box-shadow: 10px 10px 10px green;
+	box-shadow: 0 10px 10px 10px green;
+	box-shadow: 0 10px 10px 10px green;
+	box-shadow: 10px 0px 10px 10px green;
+	box-shadow: 10px 0px 10px 10px green;	
+}
